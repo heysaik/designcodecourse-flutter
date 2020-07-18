@@ -1,0 +1,4 @@
+#Sat Jul 18 01:58:26 PDT 2020
+base.0=/Users/saikambampati/Downloads/Skyhigh Labs/designcodecourse_flutter/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
